@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1522278601 source:d:\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1523636225 source:c:\users\kevin\documents\programar\code blocks\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+	"limits.h"
+
+1523563841 c:\users\kevin\documents\programar\code blocks\calculadora\lib.h
+
+1523635084 source:c:\users\kevin\documents\programar\code blocks\calculadora\lib.c
+	<stdio.h>
+	<stdlib.h>
+	"limits.h"
+
