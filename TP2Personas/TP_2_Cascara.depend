@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1525461077 source:c:\users\kevin\documents\programar\code blocks\tps\tp_2_cascara\funcionesutn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"FuncionesUtn.h"
+
+1524691840 c:\users\kevin\documents\programar\code blocks\tps\tp_2_cascara\funcionesutn.h
+
+1526053906 source:c:\users\kevin\documents\programar\code blocks\tps\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"FuncionesUtn.h"
+	"personas.h"
+
+1526054682 c:\users\kevin\documents\programar\code blocks\tps\tp_2_cascara\personas.h
+
+1526055140 source:c:\users\kevin\documents\programar\code blocks\tps\tp_2_cascara\personas.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"personas.h"
+	"FuncionesUtn.h"
+
